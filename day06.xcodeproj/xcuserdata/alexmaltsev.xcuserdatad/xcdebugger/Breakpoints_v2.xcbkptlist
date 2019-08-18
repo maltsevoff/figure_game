@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "day06/ViewController.swift"
+            timestampString = "587498642.03452"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "day06.ViewController.dynamicAnimator.getter : Swift.Optional&lt;__C.UIDynamicAnimator&gt;"
+                  moduleName = "day06"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexmaltsev/Desktop/piscine_swift/day06/day06/ViewController.swift"
+                  timestampString = "587498720.8710361"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "day06.ViewController.dynamicAnimator.setter : Swift.Optional&lt;__C.UIDynamicAnimator&gt;"
+                  moduleName = "day06"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexmaltsev/Desktop/piscine_swift/day06/day06/ViewController.swift"
+                  timestampString = "587498720.873612"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "day06.ViewController.dynamicAnimator.modify : Swift.Optional&lt;__C.UIDynamicAnimator&gt;"
+                  moduleName = "day06"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexmaltsev/Desktop/piscine_swift/day06/day06/ViewController.swift"
+                  timestampString = "587498720.875038"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "day06.ViewController.dynamicAnimator.modify : Swift.Optional&lt;__C.UIDynamicAnimator&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "day06"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexmaltsev/Desktop/piscine_swift/day06/day06/ViewController.swift"
+                  timestampString = "587498720.8764549"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "day06.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; day06.ViewController"
+                  moduleName = "day06"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexmaltsev/Desktop/piscine_swift/day06/day06/ViewController.swift"
+                  timestampString = "587498720.877851"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "day06.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;day06.ViewController&gt;"
+                  moduleName = "day06"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexmaltsev/Desktop/piscine_swift/day06/day06/ViewController.swift"
+                  timestampString = "587498720.879324"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
